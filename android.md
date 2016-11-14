@@ -62,3 +62,18 @@
 - [java decompiler](http://jd.benow.ca/)
 - [apk pure](https://apkpure.com/)
 - [json schema to pojo](http://www.jsonschema2pojo.org/)
+
+# intelliJ 
+- [android studio tips of the day](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
+- [andrdoi studio live template](https://www.bignerdranch.com/blog/android-studio-live-templates/?utm_source=Android+Weekly&utm_campaign=7547a2f58b-Android_Weekly_158&utm_medium=email&utm_term=0_4eb677ad19-7547a2f58b-337911781)
+- [no tabs in intellij](http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
+- [most frequently shortcuts](https://gist.github.com/jetzhao04/4a816a1a4874325c6ce0)
+- [js graphql plugins](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/tree/android-studio)
+- [creating and editing file templates](https://www.jetbrains.com/idea/help/creating-and-editing-file-templates.html)
+- [line sorter](https://plugins.jetbrains.com/plugin/5919?pr=clion)
+- [string manipulation](https://plugins.jetbrains.com/plugin/2162?pr=idea)
+- [key prompoto](https://plugins.jetbrains.com/plugin/1003)
+- [presentation assistant](https://plugins.jetbrains.com/plugin/7345?pr=idea)
+- [exynap](http://exynap.com/?utm_source=Android+Weekly&utm_campaign=c0a2159802-Android_Weekly_222&utm_medium=email&utm_term=0_4eb677ad19-c0a2159802-337911781)
+
+
