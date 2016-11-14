@@ -1,5 +1,6 @@
 # books
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [hackernews most linked books](http://ramiro.org/vis/hn-most-linked-books/)
 
 # programming languages 
 - [programming languages ranking](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
