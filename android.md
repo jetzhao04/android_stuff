@@ -27,6 +27,7 @@
 - [android xref](http://androidxref.com/)
 - [grepcode](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
 - [source code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/)
+- [linux kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git)
 
 # library
 - [android arsenal](http://android-arsenal.com/)
