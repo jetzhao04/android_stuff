@@ -16,6 +16,7 @@
 - [url encode / decode](http://www.url-encode-decode.com/)
 
 # js
+- [js basics](http://felix-kling.de/jsbasics/#/0)
 - [jsfiddle](http://jsfiddle.net)
 - [jsbin - collaborative js debugging](http://jsbin.com/)
 - [jscoach](https://js.coach/)
