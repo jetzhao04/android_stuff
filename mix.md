@@ -25,6 +25,7 @@
 - [python module of the week](https://pymotw.com/2/contents.html)
 - [dive into python](http://www.diveintopython.net/toc/index.html)
 - [automate boring stuff with python](https://automatetheboringstuff.com/chapter11/)
+- [Python style](https://www.python.org/dev/peps/pep-0008/)
 
 # commandline 
 - [commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
