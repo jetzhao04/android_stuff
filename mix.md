@@ -40,6 +40,7 @@
 
 # css
 - [CSS getting started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+- [CSS reference](http://cssreference.io)
 
 # php / hack
 - [hack doc](https://docs.hhvm.com)
